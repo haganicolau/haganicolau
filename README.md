@@ -14,7 +14,8 @@
 
 <img align="right" alt="GIF" src="giphy.gif?raw=true" width="400" height="320" />
 
-Hi, I'm [Hagamenon Oliveira](https://www.linkedin.com/in/haganicolau/), a passionate and self-taught professor higher and web developer from Brazil. My passion for software it's because, I can resolve problems and make people's work easier up. This come true with elegant code and a lot of study. I take great care with architecture, and code quality of the things I code.
+Hi, I'm [Hagamenon Oliveira](https://www.linkedin.com/in/haganicolau/), a tech passionate, curious and web developer from Brazil. My passion for software it's because I can resolve problems and make people's work easier up. This come true with elegant code and a lot of study. I take great care with architecture, and code quality of the things I code.
+"When I'm interested in a thing, I learn it. How it works, how the best peoples in the world do it." King Richard
 
 <p>&nbsp;</p>
 
