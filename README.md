@@ -37,7 +37,6 @@ Hi, I'm [Hagamenon Oliveira](https://www.linkedin.com/in/haganicolau/), a tech p
 🚧 **What I am doing:**
 
 - Backend developer in Soluti
-- Higher teacher in Unialfa
 - Partner in Curtamix project
 
 
