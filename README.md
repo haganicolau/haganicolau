@@ -18,7 +18,8 @@ Hi, I'm [Hagamenon Oliveira](https://www.linkedin.com/in/haganicolau/), a tech p
 **Languages and Tools:**  
 <p float="left">
 <code><img height="38" src="https://raw.githubusercontent.com/haganicolau/haganicolau/main/.github/images/java.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/haganicolau/haganicolau/main/.github/images/node.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/haganicolau/haganicolau/main/.github/images/spring.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/haganicolau/haganicolau/main/.github/images/docker.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/haganicolau/haganicolau/main/.github/images/php.png"></code>
 </p>
 
